@@ -1,0 +1,4 @@
+com\example\hospital\Controller\PatientController.class
+com\example\hospital\model\Station.class
+com\example\hospital\model\Patient.class
+com\example\hospital\HospitalApplication.class
